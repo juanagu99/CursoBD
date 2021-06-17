@@ -15,4 +15,9 @@ En resumen en la 1FN se deben de identificar si hay grupos de repeticón que se 
 **Ejemplo:**
 Teniendo en cuenta la siguiente tabla, pasarla a 1FN
 
-![image](https://user-images.githubusercontent.com/44008977/122304084-428a2f00-ceca-11eb-8ddf-b141bb00e66e.png)
+![image](https://user-images.githubusercontent.com/44008977/122305630-d8bf5480-cecc-11eb-94ab-37f7b7ead5eb.png)
+
+**Solución**
+Se identifica que hay 2 registros
+![image](https://user-images.githubusercontent.com/44008977/122304685-3c488280-cecb-11eb-8e37-ec4fa56d96b9.png)
+
